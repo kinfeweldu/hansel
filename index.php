@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Hansel and Petal - Home</title>
+<title>Hansel and Petal - Home-kinfe</title>
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 <link href="styles/handp.css" rel="stylesheet" type="text/css">
 </head>
